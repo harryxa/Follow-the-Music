@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 604e676ca1d7cd84193a7b9781c31ea4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 6screw
+    100002: 6screw.001
+    100004: Body
+    100006: boxprt
+    100008: boxprt.001
+    100010: Bridge
+    100012: Bridge hole
+    100014: Bridgescrew
+    100016: Camera
+    100018: //RootNode
+    100020: Guitar
+    100022: Handle
+    100024: Handle lines
+    100026: Handlelineslast
+    100028: Hang2
+    100030: Hang2.001
+    100032: Lamp
+    100034: Pickup1
+    100036: Pickup1.001
+    100038: pickupscrew
+    100040: pickupscrew.001
+    100042: Plane
+    100044: Plane.002
+    100046: Plane.003
+    100048: plug
+    100050: Saddle
+    100052: Saddlep1.005
+    100054: Saddlep2.005
+    100056: SaddleScrew
+    100058: SaddleScrew.001
+    100060: Screw.002
+    100062: Screw.003
+    100064: String6
+    100066: Stringedge.003
+    100068: Stringrole
+    100070: Switch
+    100072: Tune
+    100074: Tune.004
+    100076: Tune.005
+    100078: Tune.006
+    100080: Tuning pegs
+    100082: Tuning pegs.001
+    100084: Tuning pegs.002
+    100086: Tuning pegs.003
+    100088: Tuning pegs.004
+    100090: Tuning pegs.005
+    100092: Tuninghandle
+    100094: Tuninghandle.001
+    100096: Tuninghandle.002
+    100098: Tuninghandle.003
+    100100: Tuninghandle.004
+    100102: Tuninghandle.005
+    100104: Tuninginsert
+    100106: Tuninginsert.001
+    100108: Tuninginsert.002
+    100110: Tuninginsert.003
+    100112: Tuninginsert.004
+    100114: Tuninginsert.005
+    100116: Tuningscrew
+    100118: Tuningscrew.001
+    100120: Tuningscrew.002
+    100122: Tuningscrew.003
+    100124: Tuningscrew.004
+    100126: Tuningscrew.005
+    100128: Tuningside
+    100130: Tuningside.001
+    100132: Tuningside.002
+    100134: Tuningside.003
+    100136: Tuningside.004
+    100138: Tuningside.005
+    400000: 6screw
+    400002: 6screw.001
+    400004: Body
+    400006: boxprt
+    400008: boxprt.001
+    400010: Bridge
+    400012: Bridge hole
+    400014: Bridgescrew
+    400016: Camera
+    400018: //RootNode
+    400020: Guitar
+    400022: Handle
+    400024: Handle lines
+    400026: Handlelineslast
+    400028: Hang2
+    400030: Hang2.001
+    400032: Lamp
+    400034: Pickup1
+    400036: Pickup1.001
+    400038: pickupscrew
+    400040: pickupscrew.001
+    400042: Plane
+    400044: Plane.002
+    400046: Plane.003
+    400048: plug
+    400050: Saddle
+    400052: Saddlep1.005
+    400054: Saddlep2.005
+    400056: SaddleScrew
+    400058: SaddleScrew.001
+    400060: Screw.002
+    400062: Screw.003
+    400064: String6
+    400066: Stringedge.003
+    400068: Stringrole
+    400070: Switch
+    400072: Tune
+    400074: Tune.004
+    400076: Tune.005
+    400078: Tune.006
+    400080: Tuning pegs
+    400082: Tuning pegs.001
+    400084: Tuning pegs.002
+    400086: Tuning pegs.003
+    400088: Tuning pegs.004
+    400090: Tuning pegs.005
+    400092: Tuninghandle
+    400094: Tuninghandle.001
+    400096: Tuninghandle.002
+    400098: Tuninghandle.003
+    400100: Tuninghandle.004
+    400102: Tuninghandle.005
+    400104: Tuninginsert
+    400106: Tuninginsert.001
+    400108: Tuninginsert.002
+    400110: Tuninginsert.003
+    400112: Tuninginsert.004
+    400114: Tuninginsert.005
+    400116: Tuningscrew
+    400118: Tuningscrew.001
+    400120: Tuningscrew.002
+    400122: Tuningscrew.003
+    400124: Tuningscrew.004
+    400126: Tuningscrew.005
+    400128: Tuningside
+    400130: Tuningside.001
+    400132: Tuningside.002
+    400134: Tuningside.003
+    400136: Tuningside.004
+    400138: Tuningside.005
+    2000000: Camera
+    2100000: metalblur
+    2100002: BOdywood
+    2100004: metal
+    2100006: Plugmat
+    2100008: handle
+    2100010: wood
+    2100012: pickupbig
+    2100014: pickupsmall
+    2100016: saddlescrewmat
+    2100018: Tunemat
+    2100020: Material
+    2100022: String
+    2100024: Stringedge
+    2100026: Switchmat
+    2100028: No Name
+    2100030: lowlight
+    2100032: light
+    2300000: 6screw
+    2300002: 6screw.001
+    2300004: Body
+    2300006: boxprt
+    2300008: boxprt.001
+    2300010: Bridge
+    2300012: Bridge hole
+    2300014: Bridgescrew
+    2300016: Handle
+    2300018: Handle lines
+    2300020: Handlelineslast
+    2300022: Hang2
+    2300024: Hang2.001
+    2300026: Pickup1
+    2300028: Pickup1.001
+    2300030: pickupscrew
+    2300032: pickupscrew.001
+    2300034: Plane
+    2300036: Plane.002
+    2300038: Plane.003
+    2300040: plug
+    2300042: Saddle
+    2300044: Saddlep1.005
+    2300046: Saddlep2.005
+    2300048: SaddleScrew
+    2300050: SaddleScrew.001
+    2300052: Screw.002
+    2300054: Screw.003
+    2300056: String6
+    2300058: Stringedge.003
+    2300060: Stringrole
+    2300062: Switch
+    2300064: Tune
+    2300066: Tune.004
+    2300068: Tune.005
+    2300070: Tune.006
+    2300072: Tuning pegs
+    2300074: Tuning pegs.001
+    2300076: Tuning pegs.002
+    2300078: Tuning pegs.003
+    2300080: Tuning pegs.004
+    2300082: Tuning pegs.005
+    2300084: Tuninghandle
+    2300086: Tuninghandle.001
+    2300088: Tuninghandle.002
+    2300090: Tuninghandle.003
+    2300092: Tuninghandle.004
+    2300094: Tuninghandle.005
+    2300096: Tuninginsert
+    2300098: Tuninginsert.001
+    2300100: Tuninginsert.002
+    2300102: Tuninginsert.003
+    2300104: Tuninginsert.004
+    2300106: Tuninginsert.005
+    2300108: Tuningscrew
+    2300110: Tuningscrew.001
+    2300112: Tuningscrew.002
+    2300114: Tuningscrew.003
+    2300116: Tuningscrew.004
+    2300118: Tuningscrew.005
+    2300120: Tuningside
+    2300122: Tuningside.001
+    2300124: Tuningside.002
+    2300126: Tuningside.003
+    2300128: Tuningside.004
+    2300130: Tuningside.005
+    3300000: 6screw
+    3300002: 6screw.001
+    3300004: Body
+    3300006: boxprt
+    3300008: boxprt.001
+    3300010: Bridge
+    3300012: Bridge hole
+    3300014: Bridgescrew
+    3300016: Handle
+    3300018: Handle lines
+    3300020: Handlelineslast
+    3300022: Hang2
+    3300024: Hang2.001
+    3300026: Pickup1
+    3300028: Pickup1.001
+    3300030: pickupscrew
+    3300032: pickupscrew.001
+    3300034: Plane
+    3300036: Plane.002
+    3300038: Plane.003
+    3300040: plug
+    3300042: Saddle
+    3300044: Saddlep1.005
+    3300046: Saddlep2.005
+    3300048: SaddleScrew
+    3300050: SaddleScrew.001
+    3300052: Screw.002
+    3300054: Screw.003
+    3300056: String6
+    3300058: Stringedge.003
+    3300060: Stringrole
+    3300062: Switch
+    3300064: Tune
+    3300066: Tune.004
+    3300068: Tune.005
+    3300070: Tune.006
+    3300072: Tuning pegs
+    3300074: Tuning pegs.001
+    3300076: Tuning pegs.002
+    3300078: Tuning pegs.003
+    3300080: Tuning pegs.004
+    3300082: Tuning pegs.005
+    3300084: Tuninghandle
+    3300086: Tuninghandle.001
+    3300088: Tuninghandle.002
+    3300090: Tuninghandle.003
+    3300092: Tuninghandle.004
+    3300094: Tuninghandle.005
+    3300096: Tuninginsert
+    3300098: Tuninginsert.001
+    3300100: Tuninginsert.002
+    3300102: Tuninginsert.003
+    3300104: Tuninginsert.004
+    3300106: Tuninginsert.005
+    3300108: Tuningscrew
+    3300110: Tuningscrew.001
+    3300112: Tuningscrew.002
+    3300114: Tuningscrew.003
+    3300116: Tuningscrew.004
+    3300118: Tuningscrew.005
+    3300120: Tuningside
+    3300122: Tuningside.001
+    3300124: Tuningside.002
+    3300126: Tuningside.003
+    3300128: Tuningside.004
+    3300130: Tuningside.005
+    4300000: Hang2.001
+    4300002: Body
+    4300004: Bridge
+    4300006: Bridgescrew
+    4300008: Bridge hole
+    4300010: Handle
+    4300012: Handle lines
+    4300014: Handlelineslast
+    4300016: Hang2
+    4300018: Pickup1
+    4300020: pickupscrew
+    4300022: 6screw
+    4300024: boxprt
+    4300026: Pickup1.001
+    4300028: boxprt.001
+    4300030: 6screw.001
+    4300032: pickupscrew.001
+    4300034: plug
+    4300036: Saddle
+    4300038: SaddleScrew.001
+    4300040: Saddlep2.005
+    4300042: Saddlep1.005
+    4300044: SaddleScrew
+    4300046: Tune
+    4300048: Tune.006
+    4300050: Tune.005
+    4300052: Tune.004
+    4300054: Tuning pegs
+    4300056: Screw.002
+    4300058: Tuning pegs.002
+    4300060: Tuningside.002
+    4300062: Tuninginsert.002
+    4300064: Tuninghandle.002
+    4300066: Tuningscrew.002
+    4300068: Tuning pegs.001
+    4300070: Tuningscrew.001
+    4300072: Tuninghandle.001
+    4300074: Tuninginsert.001
+    4300076: Tuningside.001
+    4300078: Tuningside
+    4300080: Tuninginsert
+    4300082: Tuninghandle
+    4300084: Tuningscrew
+    4300086: Tuning pegs.003
+    4300088: Screw.003
+    4300090: Tuningscrew.005
+    4300092: Tuninghandle.005
+    4300094: Tuninginsert.005
+    4300096: Tuningside.005
+    4300098: Tuning pegs.005
+    4300100: Tuningside.004
+    4300102: Tuninginsert.004
+    4300104: Tuninghandle.004
+    4300106: Tuningscrew.004
+    4300108: Tuning pegs.004
+    4300110: Tuningscrew.003
+    4300112: Tuninghandle.003
+    4300114: Tuninginsert.003
+    4300116: Tuningside.003
+    4300118: String6
+    4300120: Stringedge.003
+    4300122: Stringrole
+    4300124: Switch
+    4300126: Plane.003
+    4300128: Plane.002
+    4300130: Plane
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
